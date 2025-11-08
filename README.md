@@ -139,4 +139,5 @@
     }
   </script>
 </body>
-</html>![Cópia de Cópia de UNITED STATES CANADA 🇺🇸🇨🇦 TEMPLATES  MCCA  Trumpets and feasts_2025 (1280 x 640 px)](https://github.com/user-attachments/assets/bb412c29-cd1c-4547-a665-3c4e87a869da)
+</html><body>
+  <img src="Untitled design.png" alt="Trumpets and Feasts Banner" style="width:100%; max-height:400px; object-fit:cover; border-bottom:3px solid gold;">
